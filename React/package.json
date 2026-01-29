@@ -1,0 +1,42 @@
+{
+  "name": "czdq44po--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "32.1.23",
+    "@syncfusion/ej2-react-base": "32.1.22",
+    "@syncfusion/ej2-documenteditor": "32.1.23",
+    "@syncfusion/ej2-react-documenteditor": "32.1.23",
+    "@syncfusion/ej2-popups": "32.1.19",
+    "@syncfusion/ej2-react-popups": "32.1.19",
+    "@syncfusion/ej2-navigations": "32.1.19",
+    "@syncfusion/ej2-react-navigations": "32.1.19",
+    "@syncfusion/ej2-lists": "32.1.23",
+    "@syncfusion/ej2-react-lists": "32.1.23",
+    "@syncfusion/ej2-buttons": "32.1.23",
+    "@syncfusion/ej2-splitbuttons": "32.1.22"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
